@@ -3,14 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Whiteboard
-  - M1
-  - M2
-  - M3
-  - Tip1
-  - Tip2
-  - Tip3
+  tags: []
   layers:
   - Default
   - TransparentFX

@@ -267,7 +267,7 @@ Transform:
   m_GameObject: {fileID: 153119629}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -1.846, y: 1.6522, z: -0.0256}
+  m_LocalPosition: {x: -1.991, y: 1.6522, z: -0.0256}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -417,7 +417,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ae6007b783eb4434eb995aec1c1b3cb0, type: 2}
+  - {fileID: 2100000, guid: 46b577c94bfdd984b92b8cabf4758649, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -538,7 +538,7 @@ GameObject:
   - component: {fileID: 650273077}
   - component: {fileID: 650273076}
   m_Layer: 0
-  m_Name: Button 3
+  m_Name: Button3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -858,7 +858,7 @@ GameObject:
   - component: {fileID: 899896543}
   - component: {fileID: 899896542}
   m_Layer: 0
-  m_Name: Button (1)
+  m_Name: Button2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1418,7 +1418,7 @@ GameObject:
   - component: {fileID: 1664833870}
   - component: {fileID: 1664833873}
   m_Layer: 0
-  m_Name: Button
+  m_Name: Button1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1580,7 +1580,7 @@ PrefabInstance:
     - target: {fileID: 4735619693976626901, guid: f795a87f5ac05f14491f1e72075270ba, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: ae6007b783eb4434eb995aec1c1b3cb0, type: 2}
+      objectReference: {fileID: 2100000, guid: 46b577c94bfdd984b92b8cabf4758649, type: 2}
     - target: {fileID: 5328867293410556344, guid: f795a87f5ac05f14491f1e72075270ba, type: 3}
       propertyPath: m_Name
       value: Whiteboard

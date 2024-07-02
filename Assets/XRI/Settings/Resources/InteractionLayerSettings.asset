@@ -14,10 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-<<<<<<< Updated upstream
-=======
-  - Interactable
->>>>>>> Stashed changes
   - 
   - 
   - 
@@ -47,9 +43,5 @@ MonoBehaviour:
   - 
   - 
   - 
-<<<<<<< Updated upstream
   - 
   - 
-=======
-  - Teleport
->>>>>>> Stashed changes

@@ -300,7 +300,6 @@ QualitySettings:
     terrainFadeLength: 5
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
-<<<<<<< Updated upstream
   - serializedVersion: 3
     name: Stanalone VR
     pixelLightCount: 1
@@ -350,8 +349,6 @@ QualitySettings:
     terrainFadeLength: 5
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
-=======
->>>>>>> Stashed changes
   m_TextureMipmapLimitGroupNames: []
   m_PerPlatformDefaultQuality:
     Android: 2
